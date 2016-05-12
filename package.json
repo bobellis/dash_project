@@ -1,0 +1,16 @@
+{
+  "name": "dash_project",
+  "version": "1.0.0",
+  "description": "a node project to monitor dash button",
+  "main": "index.js",
+  "dependencies": {
+    "node-dash-button": "^0.5.0",
+    "nvm": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob Ellis",
+  "license": "MIT"
+}
